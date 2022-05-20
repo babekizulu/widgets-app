@@ -21,7 +21,7 @@ const items = [
 
 const App = () => {
     return (
-        <div>
+        <div className='ui container'>
             <Search/>
         </div>
     );
